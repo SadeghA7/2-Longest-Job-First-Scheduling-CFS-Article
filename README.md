@@ -1,4 +1,4 @@
-#Practice 2
+# Practice 2
 
 ## Article Of Longest Job First Scheduling (LJF) Comparison of the LJF algorithm with the RM and EDF algorithms
 ### Article in English
